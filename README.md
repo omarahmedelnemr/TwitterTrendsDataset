@@ -1,2 +1,6 @@
 # TwitterTrendsDataset
-The Dataset Consist of Four Features, AutherName on Twitter, his Unique ID which starts with @ Sign, the Trend That Collected the Tweet From and The Tweet isself
+The Dataset Consist of Four Features:
+`autherName` Which Represent His Name on Twitter,
+`autherID` his Unique ID which starts with @ Sign,
+`trend` the Trend That Collected the Tweet From
+`tweetText` The Tweet isself
